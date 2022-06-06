@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:aqua;
+}
+
+.div-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5%;
+}
+
+.div-menu {
+    width: 50%;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.menu-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    list-style-type: none;
+}
